@@ -1,6 +1,4 @@
-.App {
-  text-align: center;
-}
+.App {}
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +33,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.main-wpapper {
+  background-color: #011a33;
+  color: #ffffff;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
